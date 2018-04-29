@@ -18,7 +18,7 @@ Which of the following snippets of code are responsive? Check all that apply.
   width: 350px;
 }
 ```
-- [X] Upper-Right. Although this is an absolute width of 125px, it's considered responsive because 125px will be smaller than almost all screens that users will use which is usually considered 360px on the smallest phone width.
+- [X] Upper-Right. Although this is an absolute width of 125px, it's considered responsive because 125px will be smaller than almost all screens that users will use which is usually considered 320px on the smallest phone width.
 ```
 <img class="logo">
 .logo {
