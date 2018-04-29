@@ -2,8 +2,7 @@
 
 Column drop is the easiest.
 
-<img src="images/column_drop.png" alt="column drop">
-
+<img src="images/column_drop.PNG" alt="column drop" width=400px>
 
 Example code of column drop:
 ```
