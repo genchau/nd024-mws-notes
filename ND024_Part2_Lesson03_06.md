@@ -2,6 +2,7 @@
 
 ##### Quiz:
 [Link to the Quiz](http://udacity.github.io/RWDF-samples/quizzes/media-queries-quiz.html)
+
 Objective: 
 - Between 0 and 400 pixels, set background color to red.
 - Between 401 pixels and 599 pixels set the background to green.
