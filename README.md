@@ -8,3 +8,6 @@ This repository is a work in progress, therefore the [table of contents](ND024_T
 Alright! Let's put in :100: effort so we can enjoy that :beer: and  :sushi:.
 
 Elon keep building those :rocket:.
+
+<img src="/images/udacity_logo.png" alt="Udacity Logo" width="200px">
+<img src="/images/google_mobile_web_specialist-e1504656218847.png" alt="Google Certificate for Mobile Web Specialist" width="480px">
