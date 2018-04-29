@@ -2,7 +2,7 @@
 
 The first step is to get inspired and get ideas from other responsive websites.
 
-###### Quiz (I submitted): 
+##### Quiz (I submitted): 
 https://www.360fly.com/
 
 - - -
