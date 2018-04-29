@@ -2,7 +2,7 @@
 
 >Argh, stupid small phone, stupid small buttons, stupid big fingers. :confounded:
 
-**Tap targets = anything that a user might touch, tap, click, or try and do input on.**
+**Tap targets aka Touch targets = anything that a user might touch, tap, click, or try and do input on.**
 
 Mouse can be highly accurate with inputs on a screen. 
 
