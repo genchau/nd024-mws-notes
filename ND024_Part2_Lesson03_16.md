@@ -1,5 +1,7 @@
 # Lesson 3.16 Flexbox Intro
 
+<img src="images/flexbox.png" alt="Flexbox" width=400px>
+
 Flexbox, is one of the most powerful tools that you can use for layout. It's supported by most browsers.
 
 Flexbox has the ability to fill the space available. It can expand or shrink an element. We can also change the order of elements.
