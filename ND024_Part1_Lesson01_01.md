@@ -1,5 +1,6 @@
 # Lesson 1.1 Welcome Aboard
 Hi Richard!
+
 Welcome to the Mobile Web Specialist Nanodegree program, or MWS.
 Browsing the web on a mobile device has surpassed desktops/laptops.
 There are 2.6 billion smartphone users worldwide.
