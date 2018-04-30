@@ -27,5 +27,8 @@ Project objectives:
 
 [Click here to see a preview.](https://htmlpreview.github.io/?https://github.com/genchau/RWDF_L5/blob/master/index.html)
 
+Tip: I used this website to generate the HTML table, pretty helpful :clap::
+- [https://www.tablesgenerator.com/html_tables](https://www.tablesgenerator.com/html_tables)
+
 - - -
 Next up: [Wrap Up](ND024_Part2_Lesson05_11.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
