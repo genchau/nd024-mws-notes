@@ -26,11 +26,11 @@ Example code:
 }
 ```
 
-`display: block` turns every table element into its own block.
-`thead tr { ... top: -9999px; ... }` moves the header away instead of display none for accessibility reasons.
-`td { position: relative; padding-left: 50%; }` formats the block elements.
-`td:before` modifies each td tags. 
-`content: attr(data-th);` pulls this data from the th tag.
+- `display: block` turns every table element into its own block.
+- `thead tr { ... top: -9999px; ... }` moves the header away instead of display none for accessibility reasons.
+- `td { position: relative; padding-left: 50%; }` formats the block elements.
+- `td:before` modifies each td tags. 
+- `content: attr(data-th);` pulls this data from the th tag.
 
 - - -
 Next up: [Responsive Tables - Contained Scrolling](ND024_Part2_Lesson05_07.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
