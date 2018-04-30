@@ -1,6 +1,7 @@
 # Lesson 5.9 Minor Breakpoints
 
 Major breakpoints: Layout changes significantly.
+
 Minor breakpoints: Small changes, such as adjusting margins, paddings, font size.
 
 Example code:
