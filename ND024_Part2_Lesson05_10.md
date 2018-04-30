@@ -13,15 +13,15 @@ Project objectives:
 - When done, share project in the forums.
 
 ##### My implementations to the project:
--Add breakpoint from 150-300px.
--Header is responsive from 150-850px.
--Tune CSS for NAV bar on smaller screens.
--Replace hero section with image and foreground-text.
--Modify all touch/tap targets to be finger friendly
--Update sports score with the NBA playoffs scores for 4/27 and 4/28/2018.
--Update sports score table to have contained scrolling.
--Update weather section to be fully responsive and eye-pleasing from 150px and up.
--Latest News section updated to hide p tags when viewport is below 300px.
+- Add breakpoint from 150-300px.
+- Header is responsive from 150-850px.
+- Tune CSS for NAV bar on smaller screens.
+- Replace hero section with image and foreground-text.
+- Modify all touch/tap targets to be finger friendly
+- Update sports score with the NBA playoffs scores for 4/27 and 4/28/2018.
+- Update sports score table to have contained scrolling.
+- Update weather section to be fully responsive and eye-pleasing from 150px and up.
+- Latest News section updated to hide p tags when viewport is below 300px.
 
 [Click here to view the commit differences.](https://github.com/genchau/RWDF_L5/commit/212addc828495fc22d626c36476b498309934eea)
 
