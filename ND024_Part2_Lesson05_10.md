@@ -1,7 +1,8 @@
 # Lesson 5.10 Quiz: Final Project Updates
 
 ##### Quiz: 
-Final tweaks to the home town site.
+Project objectives:
+- Final tweaks to the home town site.
 - Update the sports score table.
 - Put in my favorite team.
 - Make the table responsive.
