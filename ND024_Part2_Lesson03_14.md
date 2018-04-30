@@ -1,5 +1,6 @@
 # Lesson 3.14 Quiz: What Styles Are Applied?
 
+##### Solution:
 AA: `@media screen and (max-width:400px)`
 
 BB: `@media screen and (min-width:301px) and (max-width:600px)`
