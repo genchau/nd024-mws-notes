@@ -8,7 +8,7 @@ Example style sheet:
     display: flex;
     flex-wrap: wrap;
   }
-</style
+</style>
 ```
 
 `display: flex;` allows the elements to expand and shrink to fit the browswer display.
