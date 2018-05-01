@@ -17,9 +17,10 @@ Imagine that you're a graphic designer and you need to design a 50m (~165ft) ban
 - [ ] Raster. File size is smaller.
 - [ ] Raster. It scales without quality degradation.
 
-<quote>
-At such a large size, quality and making sure there's no distortion in the image is most important. Therefore, I would want a vector based image that will scale without degradation.
-</quote>
+```
+At such a large size, quality and making sure there's no distortion in the image is most important. 
+Therefore, I would want a vector based image that will scale without degradation.
+```
 
 </p>
 </details>
