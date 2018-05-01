@@ -33,5 +33,13 @@ Which can mean long wait times for images to download.
 
 Tip: Remember to check size of elements in Network tab. And use $0 to query details on the selected element in Elements tab. Such as `$0.naturalWidth`.
 
+Note: Some of the sublessons were removed from this main lesson. 
+- Compression, Optimization and Automation (#19 in subtitles)
+- Image Optimization Environment (#20 in subtitles)
+- These covered batch image processing.
+- Using tools like ImageMagick, Grunt, ImageOptim, Pngout, pngcrush, jpegoptim, Giftical, ImageAlpha, pngquant.
+- Grunt allows us to incorporate automated image optimization in our work flow.
+- Recommended Image Optimization Environment: Grunt, ImageOptim, ImageMagick.
+
 - - -
 Next up: [Quiz: Spot the Differences 2](ND024_Part2_Lesson07_14.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
