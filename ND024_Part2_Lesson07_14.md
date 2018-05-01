@@ -27,7 +27,7 @@ Again, when designing for mobile first, if we can deliver a similar experience w
 ```
 
 </p>
-</detail>
+</details>
 
 - - -
 Next up: [Image Compression](ND024_Part2_Lesson07_15.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
