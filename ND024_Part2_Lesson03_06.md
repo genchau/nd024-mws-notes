@@ -38,20 +38,19 @@ Objective:
 
 [Link to the Quiz](http://udacity.github.io/RWDF-samples/quizzes/media-queries-quiz.html)
 
-If everything is working well, this is what you should see on your screen:
-
-When you first open the page:
+1. This is what you should see when you first open the page:
 
 <img src="images/ND024_Part2_Lesson03_06_Quiz_a.png" width=100% border="3">
 
-- Open Chrome Dev Tools.
-- Open Elements tab
-- Open `<head>`
-- Open `<style>`
+2. Do the following:
+  - Open Chrome Dev Tools.
+  - Open Elements tab
+  - Open `<head>`
+  - Open `<style>`
 
 <img src="images/ND024_Part2_Lesson03_06_Quiz_b.png" width=100% border="3">
 
-Modify the style tag to fulfill the quiz objective. The page should change color. The Udacity Feedback Tool will display a special code:
+3. Modify the style tag to fulfill the quiz objective. The page should change color. The Udacity Feedback Tool will display a special code:
 
 <img src="images/ND024_Part2_Lesson03_06_Quiz_c.png" width=100% border="3">
 
