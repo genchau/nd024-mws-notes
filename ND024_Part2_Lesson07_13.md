@@ -40,6 +40,7 @@ Note: Some of the sublessons were removed from this main lesson.
 - Using tools like ImageMagick, Grunt, ImageOptim, Pngout, pngcrush, jpegoptim, Giftical, ImageAlpha, pngquant.
 - Grunt allows us to incorporate automated image optimization in our work flow.
 - Recommended Image Optimization Environment: Grunt, ImageOptim, ImageMagick.
+- Looks like some of our peers on Slack is recommending Gulp over Grunt.
 
 - - -
 Next up: [Quiz: Spot the Differences 2](ND024_Part2_Lesson07_14.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
