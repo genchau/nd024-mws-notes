@@ -6,7 +6,7 @@ Number of file requests can be as important as the size of the requests. There a
 
 The speed of light, you know, it's so last century. :sunny:
 
-<img src="https://discourse-cdn-sjc3.com/udacity/uploads/default/optimized/4X/f/f/4/ff4b86699d2042d5a31fdc1ae492e6bf0c50dbaf_1_666x500.jpg" width=400>
+<img src="https://discourse-cdn-sjc3.com/udacity/uploads/default/optimized/4X/f/f/4/ff4b86699d2042d5a31fdc1ae492e6bf0c50dbaf_1_666x500.jpg" width=600>
 
 Latency is the new bottleneck in modern internet experience. It turns out that for many modern web pages, bandwidth doesn't matter as much as latency does.
 
