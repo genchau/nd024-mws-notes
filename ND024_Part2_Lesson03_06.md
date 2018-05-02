@@ -35,6 +35,7 @@ Objective:
     - Find the Udacity extension
     - Check the option : "Allow access to file URLs"
     - Now go to the tab that have the .html file you are using, click the Udacity extension and check the box that says "allow feedback on this domain." It should give you feedback once you check the box.
+- **Adblockers,** please whitelist the site you are on for the tool to work.
 
 [Link to the Quiz](http://udacity.github.io/RWDF-samples/quizzes/media-queries-quiz.html)
 
