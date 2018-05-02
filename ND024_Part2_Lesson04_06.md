@@ -1,5 +1,7 @@
 # Lesson 4.6 Quiz: Combining Fluid Layouts
 
+Play with this quiz on [codepen.io](https://codepen.io/genchau/pen/Qrveba)
+
 ##### Solution:
 ```
 .container {
