@@ -3,6 +3,7 @@
 Icon fonts are great way to decorate without images. There are tons of resources online. Check these out:
 
 [Icons | Font Awesome](https://fontawesome.com/icons?d=gallery)
+
 [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
 
 - - -
