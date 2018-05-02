@@ -5,6 +5,7 @@ We can use symbols, icons, glyphicons instead of images for things like arrow, s
 Get to know your glyphs!
 
 [Sets - Unicode® character table](https://unicode-table.com/en/sets/)
+
 [List of Unicode characters - Wikipedia](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 
 - - -
