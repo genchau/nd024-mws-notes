@@ -8,5 +8,8 @@ lesson2-focus/02-dom-order from:
 Fix the tab orders. 
 The logical order is nav, search, content links, and then the footer.
 
+We can also improve Semantics:
+- For the footer, change to use a `<footer>` tag instead of div. This helps screen readers a lot.
+
 - - -
 Next up: [Using Tabindex](ND024_Part2_Lesson11_06.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
