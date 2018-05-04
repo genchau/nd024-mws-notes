@@ -27,4 +27,6 @@ Some statistics on disability for the US:
 - Over 4% have a cognitive disability (difficulty remembering, concentrating, or making decisions)
 
 - - -
-Next up: [Quiz: Diversity of Users (Broken Arm)](ND024_Part2_Lesson10_04.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
+Next up: [Quiz: Diversity of Users (Broken Arm)](ND024_Part2_Lesson10_04.md) 
+
+or skip all quizzes: [Using a Screen Reader](ND024_Part2_Lesson10_10.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
