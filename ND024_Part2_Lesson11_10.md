@@ -8,5 +8,7 @@ Process for starting web server.
 
 `newPage.querySelector('h2').focus();`
 
+GCNOTE: I need to re-do this section.
+
 - - -
 Next up: [Skip Links](ND024_Part2_Lesson11_11.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
