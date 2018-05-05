@@ -9,10 +9,10 @@ We are going to use **roving focus.** We will set `tabindex="0"` for the current
 
 Example:
 ```
-Water         <li tabindex="-1">
-Tea             <li tabindex="0" checked>
-Coffee        <li tabindex="-1">
-Cola           <li tabindex="-1">
+Water       <li tabindex="-1">
+Tea         <li tabindex="0" checked>
+Coffee      <li tabindex="-1">
+Cola        <li tabindex="-1">
 Ginger Ale  <li tabindex="-1">
 ```
 
