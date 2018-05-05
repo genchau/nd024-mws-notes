@@ -1,7 +1,9 @@
 # Lesson 10.1 Introduction to Accessibility
 
 Alice Boxhall, software engineer on the Google Chrome accessibility team.
+
 Rob Dodson, developer advocate for Chrome.
+
 Mike Wales, program manager at Udacity.
 
 Objective: To undertand how we can make our website accessible and usable for everyone.
