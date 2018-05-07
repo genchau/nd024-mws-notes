@@ -3,7 +3,9 @@
 Settings >> Accessibility >> Talkback >> On.
 
 Scroll: 2 fingers.
+
 Swipe to switch to different headings.
+
 Double tap to select.
 
 - - -
