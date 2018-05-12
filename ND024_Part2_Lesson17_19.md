@@ -11,6 +11,7 @@ self.addEventListener('activate', function(event) {
 });
 ```
 `caches.delete(cacheName);` Used to delete a cache. Returns a promise.
+
 `caches.keys();` Used to get  the names of all the caches. Returns a promise.
 - - -
 Next up: [Quiz: Update Your CSS Quiz](ND024_Part2_Lesson17_20.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
