@@ -18,7 +18,7 @@ Your task is to update the CSS in a way that doesn't disrupt the currently runni
 
 #### Solution:
 ```
-var currentCacheName = 'wittr-static-v2';
+var staticCacheName = 'wittr-static-v2';
 
 self.addEventListener('activate', function(event) {
   event.waitUntil(
