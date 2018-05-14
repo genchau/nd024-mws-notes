@@ -2,7 +2,7 @@
 
 #### Quiz:
 
-This button is not a button, but a <div>. The screen reader will not recognize this as a button.
+This button is not a button, but a `<div>`. The screen reader will not recognize this as a button.
 
 folder: `lesson3-semantics-built-in/05-writing-semantic-html`
 
