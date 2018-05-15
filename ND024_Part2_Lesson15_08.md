@@ -3,7 +3,7 @@
 Responsive site will behave nicely when a user requires magnification. So just having a responsive site will satisfy WebAIM checklist item 1.4.4. 
 
 meta viewport:
-`<meta name="viewport" content="width=device-width, initial-scale=1">
+`<meta name="viewport" content="width=device-width, initial-scale=1">`
 
 Please refrain from using:
 - max-scale=1

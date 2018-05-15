@@ -6,10 +6,10 @@ We will need a roadmap to help with implementing accessibility.
 
 WCAG = Web Content Accessbility Guidelines.
 
-P = Perceivable = Perceivable by other senses than sight?
-O = Operable = Can users use UI components and navigate?
-U = Understandable = The interface does not cause confusion.
-R = Robust = Able to be consumed by a wide audience.
+- P = Perceivable = Perceivable by other senses than sight?
+- O = Operable = Can users use UI components and navigate?
+- U = Understandable = The interface does not cause confusion.
+- R = Robust = Able to be consumed by a wide audience.
 
 WCAG can be overwhelming. WebAIM has distilled into an easier to follow checklist, targeted for web content.
 

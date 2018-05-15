@@ -25,4 +25,4 @@ Consult the [rubric](https://review.udacity.com/#!/rubrics/1090/view) often to b
 3. Select the repository for this project (you may need to connect your GitHub account first).
 
 - - -
-Next up: [Dynamic & Offline Capable Web Apps]() or return to [Table Of Contents](./ND024_TableOfContents.md)
+Next up: [Course Intro](ND024_Part3_Lesson01_01.md) or return to [Table Of Contents](./ND024_TableOfContents.md)

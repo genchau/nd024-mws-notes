@@ -2,7 +2,7 @@
 
 ### Steps to complete the project
 1. Fork and clone the [starter repository](https://github.com/udacity/mws-restaurant-stage-1). The code in this repository will serve as your baseline to begin development.
-2. You'll need your own [Google Maps API key](https://developers.google.com/maps/documentation/javascript/get-api-key). Replace the text `YOUR_GOOGLE_MAPS_API_KEY` on line 37 of index.html with your own key.
+2. You'll need your own [Google Maps API key](https://developers.google.com/maps/documentation/javascript/get-api-key). Replace the text `YOUR_GOOGLE_MAPS_API_KEY` on line 37 of index.html with your own key. ([Temporary key](https://discussions.udacity.com/t/announcement-google-maps-product-change/702110) valid until June 11, 2018:  )
 3. Convert the provided site to use a responsive design .
     1. Bootstrap and other CSS frameworks should not be used; all responsiveness should be done with CSS.
     2. Use appropriate document type declaration and viewport tags
