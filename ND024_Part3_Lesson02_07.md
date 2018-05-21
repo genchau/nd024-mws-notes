@@ -11,7 +11,7 @@ our code in an anonymous function calls `.ajax()`
 `.send()` calls `options.xhr()`
 `options.xhr()` calls `jQuery.ajaxSettings.xhr` which creates a new XHR object
 
-<img src="https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58ba123e_ud109-l2-jquery-xhr-call-stack/ud109-l2-jquery-xhr-call-stack.gif">
+<img src="./images/ud109-l2-jquery-xhr-call-stack.gif">
 Clicking through the call stack to see the order of function calls
 
 - - -
