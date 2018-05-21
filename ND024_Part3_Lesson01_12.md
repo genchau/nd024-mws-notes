@@ -1,5 +1,9 @@
 # Lesson 1.12 Project Final Walkthrough
 
+Link to my github repo: https://github.com/genchau/course-ajax/blob/master/lesson-1-async-w-xhr/app.js
+
+Link to my github preview: https://htmlpreview.github.io/?https://github.com/genchau/course-ajax/blob/master/lesson-1-async-w-xhr/index.html
+
 Here's my implementation of the XHR for the AJAX project.
 ```
 (function () {
