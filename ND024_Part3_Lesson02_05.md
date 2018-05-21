@@ -1,5 +1,11 @@
 # Lesson 2.5 Code Walkthrough
 
+Link to my github repo:
+https://github.com/genchau/course-ajax/blob/master/lesson-2-async-w-jQuery/app.js
+
+Link to github preview:
+https://htmlpreview.github.io/?https://github.com/genchau/course-ajax/blob/master/lesson-2-async-w-jQuery/index.html
+
 ```
 /* eslint-env jquery */
 
