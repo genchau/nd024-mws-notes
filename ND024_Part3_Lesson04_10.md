@@ -1,0 +1,6 @@
+# Lesson 4.10 Iteration
+
+So, what is iteration? Probably the best way to describe it is by looking at a normal for loop. When you write a for loop, you provide the loop with a variable. This variable is typically the letter `i` because it's being used as an iterator to keep track of your place in the loop. When you're looping over something like an array, this iterator works like an index, letting you access each item in the array one after the other. This process of getting the next item, one after the other, is iteration, and we've been using it for a long time. So, why even bring this up? It sounds like iteration has always been a part of JavaScript. So, what's new in ES6? Well, there are a couple of things. First, there's a new iterable interface that allows us to customize how objects are iterated. So, basically how they're looped over. We'll look at this more closely in lesson three, when we talk about symbols. The second thing is there's a new loop, it's called the for-of loop, which loops exclusively over iterable objects. Now, when I say iterable objects, I just mean an object that has implemented this new iterable interface. 
+
+- - -
+Next up: [Family of For Loops](ND024_Part3_Lesson04_11.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
