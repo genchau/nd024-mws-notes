@@ -61,8 +61,10 @@ members.set('Sophia', 0);
 members.set('Marcus', 10.25);
 
 for (const member of members) {
-    // console.log(key, value);
+    const [key, value] = member;
+    console.log(key, value);
 }
+
 ```
 
 ### 3. Using a forEach Loop
