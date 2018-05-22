@@ -1,0 +1,6 @@
+# Lesson 5.15 Convert a Function to a Class
+
+Let's first convert this function into a class. Everything inside the constructor function is now placed inside a method with the name constructor. This constructor method will automatically run when a new object is constructred from this class. If any data is needed to create the object, then it needs to be included here. So this takes care of creating an object. Now the methods that all objects inherit are placed inside the class. startEngines exists on the prototype explicitly in the pre-class way of writing it. Now, it appears inside the class, but the functionality is exactly the same. Also, it looks like startEngines and this constructor method are the same kind of method, but the constructor method is no on the prototype, it's a new, special method that exists in a class and is used to initialize new objects. To drive this home, the functionality of these two is exactly the same. This class syntax is just a nicer way of writing this. In fact, we create new objects in exactly the same way with this new class syntax. If you already understand prototypal inheritance, than you already have a good understanding of how class and class methods work.
+
+- - -
+Next up: [Working with JavaScript Classes](ND024_Part3_Lesson05_16.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
