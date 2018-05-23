@@ -126,6 +126,7 @@ Further lesson.
 - `git checkout idb-cursoring`
 - We can use cursors to iterate through the index.
 - `.openCursor()` returns a promise for a cursor object representing the first item in the index or undefined if there isn't one.
+- `.openCursor( null , "prev")` for descending order.
 - `.advance()` we enter the number we want to jump ahead in the index.
 - `cursor.value` is the entry we want to access.
 - `cursor.update(newValue)` can change the value.
