@@ -3,7 +3,7 @@
 ## Table of Contents
 - - -
 #### Part 1: Nanodegree Orientation
-##### Lesson 1: Nanodegree Orientation
+##### Part 1 Lesson 1: Nanodegree Orientation
 - [Part 1 Lesson 1.1 Welcome Aboard](ND024_Part1_Lesson01_01.md)
 - [Part 1 Lesson 1.2 Who We Are](ND024_Part1_Lesson01_02.md)
 - [Part 1 Lesson 1.3 What You'll Build](ND024_Part1_Lesson01_03.md)
@@ -11,7 +11,7 @@
 - [Part 1 Lesson 1.5 Conclusion](ND024_Part1_Lesson01_05.md)
 - - -
 #### Part 2: Accessible & Responsive Web Apps
-##### Lesson 1: Why Responsive?
+##### Part 2 Lesson 1: Why Responsive?
 - [Part 2 Lesson 1.1 Sites on Mobile](ND024_Part2_Lesson01_01.md)
 - [Part 2 Lesson 1.2 Quiz: Share Your Great & Awful Sites](ND024_Part2_Lesson01_02.md)
 - [Part 2 Lesson 1.3 Intro to Project](ND024_Part2_Lesson01_03.md)
@@ -23,7 +23,7 @@
 - [Part 2 Lesson 1.9 Using dev tools on mobile](ND024_Part2_Lesson01_09.md)
 - [Part 2 Lesson 1.10 Mobile tools for iOS](ND024_Part2_Lesson01_10.md)
 - [Part 2 Lesson 1.11 Lesson Summary](ND024_Part2_Lesson01_11.md)
-##### Lesson 2: Starting Small
+##### Part 2 Lesson 2: Starting Small
 - [Part 2 Lesson 2.1 Defining the Viewport](ND024_Part2_Lesson02_01.md)
 - [Part 2 Lesson 2.2 Pixels, pixels and moar pixels!](ND024_Part2_Lesson02_02.md)
 - [Part 2 Lesson 2.3 Quiz: Pixelation](ND024_Part2_Lesson02_03.md)
@@ -41,7 +41,7 @@
 - [Part 2 Lesson 2.15 Quiz: Project Part 1](ND024_Part2_Lesson02_15.md)
 - [Part 2 Lesson 2.16 Project Solution - Long](ND024_Part2_Lesson02_16.md)
 - [Part 2 Lesson 2.17 Lesson Summary](ND024_Part2_Lesson02_17.md)
-##### Lesson 3: Building Up
+##### Part 2 Lesson 3: Building Up
 - [Part 2 Lesson 3.1 Lesson Intro](ND024_Part2_Lesson03_01.md)
 - [Part 2 Lesson 3.2 Basic Media Query Intro](ND024_Part2_Lesson03_02.md)
 - [Part 2 Lesson 3.3 Adding a Basic Media Query](ND024_Part2_Lesson03_03.md)
@@ -63,7 +63,7 @@
 - [Part 2 Lesson 3.19 Deconstructing a Flexbox Layout](ND024_Part2_Lesson03_19.md)
 - [Part 2 Lesson 3.20 Quiz: Deconstructing a Flexbox Layout](ND024_Part2_Lesson03_20.md)
 - [Part 2 Lesson 3.21 Lesson Summary](ND024_Part2_Lesson03_21.md)
-##### Lesson 4: Common Responsive Patterns
+##### Part 2 Lesson 4: Common Responsive Patterns
 - [Part 2 Lesson 4.1 Intro to Patterns](ND024_Part2_Lesson04_01.md)
 - [Part 2 Lesson 4.2 Pattern - Column Drop](ND024_Part2_Lesson04_02.md)
 - [Part 2 Lesson 4.3 Pattern - Mostly Fluid](ND024_Part2_Lesson04_03.md)
@@ -76,7 +76,7 @@
 - [Part 2 Lesson 4.10 Quiz: Off Canvas Visualization](ND024_Part2_Lesson04_10.md)
 - [Part 2 Lesson 4.11 Quiz: Project Update Part 2](ND024_Part2_Lesson04_11.md)
 - [Part 2 Lesson 4.12 Lesson Summary](ND024_Part2_Lesson04_12.md)
-##### Lesson 5: Optimizations
+##### Part 2 Lesson 5: Optimizations
 - [Part 2 Lesson 5.1 Lesson Intro](ND024_Part2_Lesson05_01.md)
 - [Part 2 Lesson 5.2 Images](ND024_Part2_Lesson05_02.md)
 - [Part 2 Lesson 5.3 Responsive Tables Intro](ND024_Part2_Lesson05_03.md)
@@ -88,7 +88,7 @@
 - [Part 2 Lesson 5.9 Minor Breakpoints](ND024_Part2_Lesson05_09.md)
 - [Part 2 Lesson 5.10 Quiz: Final Project Updates](ND024_Part2_Lesson05_10.md)
 - [Part 2 Lesson 5.11 Wrap Up](ND024_Part2_Lesson05_11.md)
-##### Lesson 6: Getting Up and Running
+##### Part 2 Lesson 6: Getting Up and Running
 - [Part 2 Lesson 6.1 Course Introduction](ND024_Part2_Lesson06_01.md)
 - [Part 2 Lesson 6.2 Why Responsive Images?](ND024_Part2_Lesson06_02.md)
 - [Part 2 Lesson 6.3 Intro to Project](ND024_Part2_Lesson06_03.md)
@@ -97,7 +97,7 @@
 - [Part 2 Lesson 6.6 Using dev tools on mobile](ND024_Part2_Lesson06_06.md)
 - [Part 2 Lesson 6.7 Mobile tools for iOS](ND024_Part2_Lesson06_07.md)
 - [Part 2 Lesson 6.8 Lesson Wrap Up](ND024_Part2_Lesson06_08.md)
-##### Lesson 7: Units, Formats, Environments
+##### Part 2 Lesson 7: Units, Formats, Environments
 - [Part 2 Lesson 7.1 Quiz: Sizing Intro](ND024_Part2_Lesson07_01.md)
 - [Part 2 Lesson 7.2 All about Bits and Pixels](ND024_Part2_Lesson07_02.md)
 - [Part 2 Lesson 7.3 Requests and Revenue](ND024_Part2_Lesson07_03.md)
@@ -115,7 +115,7 @@
 - [Part 2 Lesson 7.15 Image Compression](ND024_Part2_Lesson07_15.md)
 - [Part 2 Lesson 7.16 Quiz: Project Part 1](ND024_Part2_Lesson07_16.md)
 - [Part 2 Lesson 7.17 Lesson Summary](ND024_Part2_Lesson07_17.md)
-##### Lesson 8: Images with Markup
+##### Part 2 Lesson 8: Images with Markup
 - [Part 2 Lesson 8.1 Performance](ND024_Part2_Lesson08_01.md)
 - [Part 2 Lesson 8.2 Text Problems](ND024_Part2_Lesson08_02.md)
 - [Part 2 Lesson 8.3 CSS Techniques](ND024_Part2_Lesson08_03.md)
@@ -131,7 +131,7 @@
 - [Part 2 Lesson 8.13 Quiz: Strategy Quiz 4](ND024_Part2_Lesson08_13.md)
 - [Part 2 Lesson 8.14 Quiz: Project Part 2](ND024_Part2_Lesson08_14.md)
 - [Part 2 Lesson 8.15 Lesson Summary](ND024_Part2_Lesson08_15.md)
-##### Lesson 9: Full Responsiveness
+##### Part 2 Lesson 9: Full Responsiveness
 - [Part 2 Lesson 9.1 Responding to Screen Capability & View](ND024_Part2_Lesson09_01.md)
 - [Part 2 Lesson 9.2 srcset](ND024_Part2_Lesson09_02.md)
 - [Part 2 Lesson 9.3 Sizes Attribute](ND024_Part2_Lesson09_03.md)
@@ -143,7 +143,7 @@
 - [Part 2 Lesson 9.9 Quiz: Accessibility Promise](ND024_Part2_Lesson09_09.md)
 - [Part 2 Lesson 9.10 Quiz: Project Part 3](ND024_Part2_Lesson09_10.md)
 - [Part 2 Lesson 9.11 Course Conclusion](ND024_Part2_Lesson09_11.md)
-##### Lesson 10: Accessibility Overview
+##### Part 2 Lesson 10: Accessibility Overview
 - [Part 2 Lesson 10.1 Introduction to Accessibility](ND024_Part2_Lesson10_01.md)
 - [Part 2 Lesson 10.2 What is Accessibility](ND024_Part2_Lesson10_02.md)
 - [Part 2 Lesson 10.3 Understanding the diversity of users](ND024_Part2_Lesson10_03.md)
@@ -158,7 +158,7 @@
 - [Part 2 Lesson 10.12 Checklists](ND024_Part2_Lesson10_12.md)
 - [Part 2 Lesson 10.13 Quiz: Using WebAIM Checklist](ND024_Part2_Lesson10_13.md)
 - [Part 2 Lesson 10.14 Gear Shift into Course Practicalities](ND024_Part2_Lesson10_14.md)
-##### Lesson 11: Focus
+##### Part 2 Lesson 11: Focus
 - [Part 2 Lesson 11.1 Introduction to Focus](ND024_Part2_Lesson11_01.md)
 - [Part 2 Lesson 11.2 What is Focus?](ND024_Part2_Lesson11_02.md)
 - [Part 2 Lesson 11.3 Quiz: Experiencing Focus](ND024_Part2_Lesson11_03.md)
@@ -177,7 +177,7 @@
 - [Part 2 Lesson 11.16 Quiz: Implement Offscreen Content](ND024_Part2_Lesson11_16.md)
 - [Part 2 Lesson 11.17 Modals and Keyboard Traps](ND024_Part2_Lesson11_17.md)
 - [Part 2 Lesson 11.18 Lesson 2 Outro](ND024_Part2_Lesson11_18.md)
-##### Lesson 12: Semantics Basics
+##### Part 2 Lesson 12: Semantics Basics
 - [Part 2 Lesson 12.1 Semantics Introduction](ND024_Part2_Lesson12_01.md)
 - [Part 2 Lesson 12.2 Assistive Technology](ND024_Part2_Lesson12_02.md)
 - [Part 2 Lesson 12.3 Affordances](ND024_Part2_Lesson12_03.md)
@@ -195,7 +195,7 @@
 - [Part 2 Lesson 12.15 Text Alternatives](ND024_Part2_Lesson12_15.md)
 - [Part 2 Lesson 12.16 Quiz: Labeling Images With ALT Text](ND024_Part2_Lesson12_16.md)
 - [Part 2 Lesson 12.17 Lesson 3 Outro](ND024_Part2_Lesson12_17.md)
-##### Lesson 13: Navigating Content
+##### Part 2 Lesson 13: Navigating Content
 - [Part 2 Lesson 13.1 Semantics - Navigating content - Intro](ND024_Part2_Lesson13_01.md)
 - [Part 2 Lesson 13.2 Navigating with a screen reader](ND024_Part2_Lesson13_02.md)
 - [Part 2 Lesson 13.3 Navigating by Headings](ND024_Part2_Lesson13_03.md)
@@ -208,7 +208,7 @@
 - [Part 2 Lesson 13.10 Landmarks](ND024_Part2_Lesson13_10.md)
 - [Part 2 Lesson 13.11 Quiz: Landmarks](ND024_Part2_Lesson13_11.md)
 - [Part 2 Lesson 13.12 Outro Lesson 4](ND024_Part2_Lesson13_12.md)
-##### Lesson 14: ARIA
+##### Part 2 Lesson 14: ARIA
 - [Part 2 Lesson 14.1 Intro to Semantics: ARIA](ND024_Part2_Lesson14_01.md)
 - [Part 2 Lesson 14.2 Why ARIA](ND024_Part2_Lesson14_02.md)
 - [Part 2 Lesson 14.3 Quiz: First Steps with ARIA](ND024_Part2_Lesson14_03.md)
@@ -229,7 +229,7 @@
 - [Part 2 Lesson 14.18 Recap](ND024_Part2_Lesson14_18.md)
 - [Part 2 Lesson 14.19 Quiz: Modal Dialog Quiz](ND024_Part2_Lesson14_19.md)
 - [Part 2 Lesson 14.20 Outro Lesson 5](ND024_Part2_Lesson14_20.md)
-##### Lesson 15: Style
+##### Part 2 Lesson 15: Style
 - [Part 2 Lesson 15.1 Introduction to Style](ND024_Part2_Lesson15_01.md)
 - [Part 2 Lesson 15.2 Working with focus styles](ND024_Part2_Lesson15_02.md)
 - [Part 2 Lesson 15.3 Quiz: Write your own focus styles](ND024_Part2_Lesson15_03.md)
@@ -249,7 +249,7 @@
 - [Part 2 Lesson 15.17 High Contrast Mode](ND024_Part2_Lesson15_17.md)
 - [Part 2 Lesson 15.18 Lesson 6 Outro](ND024_Part2_Lesson15_18.md)
 - [Part 2 Lesson 15.19 Course Outro](ND024_Part2_Lesson15_19.md)
-##### Lesson 16: The Benefits of Offline First
+##### Part 2 Lesson 16: The Benefits of Offline First
 - [Part 2 Lesson 16.1 Intro](ND024_Part2_Lesson16_01.md)
 - [Part 2 Lesson 16.2 The Problem](ND024_Part2_Lesson16_02.md)
 - [Part 2 Lesson 16.3 The Benefits of Offline First](ND024_Part2_Lesson16_03.md)
@@ -263,7 +263,7 @@
 - [Part 2 Lesson 16.11 Quiz: Changing Connection Types](ND024_Part2_Lesson16_11.md)
 - [Part 2 Lesson 16.12 Quiz: Testing Lie Fi Mode](ND024_Part2_Lesson16_12.md)
 - [Part 2 Lesson 16.13 Introducing Service Worker](ND024_Part2_Lesson16_13.md)
-##### Lesson 17: Introducing the Service Worker
+##### Part 2 Lesson 17: Introducing the Service Worker
 - [Part 2 Lesson 17.1 An Overview of Service Worker](ND024_Part2_Lesson17_01.md)
 - [Part 2 Lesson 17.2 Quiz: Scoping Quiz](ND024_Part2_Lesson17_02.md)
 - [Part 2 Lesson 17.3 Adding a Service Worker To the Project](ND024_Part2_Lesson17_03.md)
@@ -290,13 +290,13 @@
 - [Part 2 Lesson 17.24 Triggering an Update](ND024_Part2_Lesson17_24.md)
 - [Part 2 Lesson 17.25 Quiz: Triggering an Update Quiz](ND024_Part2_Lesson17_25.md)
 - [Part 2 Lesson 17.26 Quiz: Caching the Page Skeleton](ND024_Part2_Lesson17_26.md)
-##### Lesson Project: Restaurant Reviews App - Stage 1
+##### Part 2 Lesson Project: Restaurant Reviews App - Stage 1
 - [Part 2 Lesson Project.1 Project Overview](ND024_Part2_LessonProject_01.md)
 - [Part 2 Lesson Project.2 Project Instructions & Rubric](ND024_Part2_LessonProject_02.md)
 - [Part 2 Lesson Project.3 Project: Restaurant Reviews App - Stage 1](ND024_Part2_LessonProject_03.md)
 - - -
 #### Part 3: Dynamic & Offline Capable Web Apps
-##### Lesson 1: Ajax with XHR
+##### Part 3 Lesson 1: Ajax with XHR
 - [Part 3 Lesson 1.1 Course Intro](ND024_Part3_Lesson01_01.md)
 - [Part 3 Lesson 1.2 Client Server Demonstration](ND024_Part3_Lesson01_02.md)
 - [Part 3 Lesson 1.3 Ajax Definition & Examples](ND024_Part3_Lesson01_03.md)
@@ -311,7 +311,7 @@
 - [Part 3 Lesson 1.12 Project Final Walkthrough](ND024_Part3_Lesson01_12.md)
 - [Part 3 Lesson 1.13 XHR Recap](ND024_Part3_Lesson01_13.md)
 - [Part 3 Lesson 1.14 XHR Outro](ND024_Part3_Lesson01_14.md)
-##### Lesson 2: Ajax with jQuery
+##### Part 3 Lesson 2: Ajax with jQuery
 - [Part 3 Lesson 2.1 The jQuery Library & Ajax](ND024_Part3_Lesson02_01.md)
 - [Part 3 Lesson 2.2 jQuery's 'ajax()' Method](ND024_Part3_Lesson02_02.md)
 - [Part 3 Lesson 2.3 Handling The Returned Data](ND024_Part3_Lesson02_03.md)
@@ -322,7 +322,7 @@
 - [Part 3 Lesson 2.8 Walkthrough of .ajaxTransport](ND024_Part3_Lesson02_08.md)
 - [Part 3 Lesson 2.9 jQuery's Other Async Methods](ND024_Part3_Lesson02_09.md)
 - [Part 3 Lesson 2.10 Async with jQuery Outro](ND024_Part3_Lesson02_10.md)
-##### Lesson 3: Ajax with Fetch
+##### Part 3 Lesson 3: Ajax with Fetch
 - [Part 3 Lesson 3.1 Ajax call with the Fetch API](ND024_Part3_Lesson03_01.md)
 - [Part 3 Lesson 3.2 What is Fetch](ND024_Part3_Lesson03_02.md)
 - [Part 3 Lesson 3.3 Write the Fetch Request](ND024_Part3_Lesson03_03.md)
@@ -333,7 +333,7 @@
 - [Part 3 Lesson 3.8 Project Wrap-up](ND024_Part3_Lesson03_08.md)
 - [Part 3 Lesson 3.9 Fetch Outro](ND024_Part3_Lesson03_09.md)
 - [Part 3 Lesson 3.10 Course Outro](ND024_Part3_Lesson03_10.md)
-##### Lesson 4: Syntax
+##### Part 3 Lesson 4: Syntax
 - [Part 3 Lesson 4.1 Harmony, ES6, ES2015...](ND024_Part3_Lesson04_01.md)
 - [Part 3 Lesson 4.2 Let and Const](ND024_Part3_Lesson04_02.md)
 - [Part 3 Lesson 4.3 Quiz: Using Let and Const (1-1)](ND024_Part3_Lesson04_03.md)
@@ -351,7 +351,7 @@
 - [Part 3 Lesson 4.15 ...Rest Parameter](ND024_Part3_Lesson04_15.md)
 - [Part 3 Lesson 4.16 Quiz: Using the Rest Parameter (1-5)](ND024_Part3_Lesson04_16.md)
 - [Part 3 Lesson 4.17 Lesson 1 Summary](ND024_Part3_Lesson04_17.md)
-##### Lesson 5: Functions
+##### Part 3 Lesson 5: Functions
 - [Part 3 Lesson 5.1 Updates to Functions](ND024_Part3_Lesson05_01.md)
 - [Part 3 Lesson 5.2 Arrow Functions](ND024_Part3_Lesson05_02.md)
 - [Part 3 Lesson 5.3 Using Arrow Functions](ND024_Part3_Lesson05_03.md)
@@ -373,7 +373,7 @@
 - [Part 3 Lesson 5.19 Working with JavaScript Subclasses](ND024_Part3_Lesson05_19.md)
 - [Part 3 Lesson 5.20 Quiz: Building Classes and Subclasses (2-3)](ND024_Part3_Lesson05_20.md)
 - [Part 3 Lesson 5.21 Lesson 2 Summary](ND024_Part3_Lesson05_21.md)
-##### Lesson 6: Built-ins
+##### Part 3 Lesson 6: Built-ins
 - [Part 3 Lesson 6.1 New Built-ins](ND024_Part3_Lesson06_01.md)
 - [Part 3 Lesson 6.2 Symbols Intro](ND024_Part3_Lesson06_02.md)
 - [Part 3 Lesson 6.3 Symbols](ND024_Part3_Lesson06_03.md)
@@ -401,7 +401,7 @@
 - [Part 3 Lesson 6.25 Generators & Iterators](ND024_Part3_Lesson06_25.md)
 - [Part 3 Lesson 6.26 Sending Data into/out of a Generator](ND024_Part3_Lesson06_26.md)
 - [Part 3 Lesson 6.27 Lesson 3 Summary](ND024_Part3_Lesson06_27.md)
-##### Lesson 7: Professional Developer-fu
+##### Part 3 Lesson 7: Professional Developer-fu
 - [Part 3 Lesson 7.1 The Web is Growing Up](ND024_Part3_Lesson07_01.md)
 - [Part 3 Lesson 7.2 Old and New Browsers](ND024_Part3_Lesson07_02.md)
 - [Part 3 Lesson 7.3 ES6 Specification](ND024_Part3_Lesson07_03.md)
@@ -416,7 +416,7 @@
 - [Part 3 Lesson 7.12 Transpiling Walkthrough](ND024_Part3_Lesson07_12.md)
 - [Part 3 Lesson 7.13 Transpiling Recap](ND024_Part3_Lesson07_13.md)
 - [Part 3 Lesson 7.14 Course Summary](ND024_Part3_Lesson07_14.md)
-##### Lesson 8: IndexedDB and Caching
+##### Part 3 Lesson 8: IndexedDB and Caching
 - [Part 3 Lesson 8.1 Introducing the IDB Promised Library](ND024_Part3_Lesson08_01.md)
 - [Part 3 Lesson 8.2 Getting Started with IDB](ND024_Part3_Lesson08_02.md)
 - [Part 3 Lesson 8.3 Quiz: Getting Started with IDB](ND024_Part3_Lesson08_03.md)
@@ -431,12 +431,12 @@
 - [Part 3 Lesson 8.12 Quiz: Cleaning Photo Cache Quiz](ND024_Part3_Lesson08_12.md)
 - [Part 3 Lesson 8.13 Quiz: Caching Avatars](ND024_Part3_Lesson08_13.md)
 - [Part 3 Lesson 8.14 Outro](ND024_Part3_Lesson08_14.md)
-##### Lesson 9: Introducing Web Tooling and Automation
+##### Part 3 Lesson 9: Introducing Web Tooling and Automation
 - [Part 3 Lesson 9.1 Course Intro](ND024_Part3_Lesson09_01.md)
 - [Part 3 Lesson 9.2 Quiz: Cost Effectiveness](ND024_Part3_Lesson09_02.md)
 - [Part 3 Lesson 9.3 Common Sense](ND024_Part3_Lesson09_03.md)
 - [Part 3 Lesson 9.4 On to the course!](ND024_Part3_Lesson09_04.md)
-##### Lesson 10: Productive Editing
+##### Part 3 Lesson 10: Productive Editing
 - [Part 3 Lesson 10.1 Intro](ND024_Part3_Lesson10_01.md)
 - [Part 3 Lesson 10.2 From Notepad to IDE](ND024_Part3_Lesson10_02.md)
 - [Part 3 Lesson 10.3 Set Up Your Editor](ND024_Part3_Lesson10_03.md)
@@ -446,7 +446,7 @@
 - [Part 3 Lesson 10.7 Extending Your Editor](ND024_Part3_Lesson10_07.md)
 - [Part 3 Lesson 10.8 Quiz: Using the Palette](ND024_Part3_Lesson10_08.md)
 - [Part 3 Lesson 10.9 Lesson Outro](ND024_Part3_Lesson10_09.md)
-##### Lesson 11: Powerful Builds
+##### Part 3 Lesson 11: Powerful Builds
 - [Part 3 Lesson 11.1 Lesson Intro](ND024_Part3_Lesson11_01.md)
 - [Part 3 Lesson 11.2 Overview of Build Tools](ND024_Part3_Lesson11_02.md)
 - [Part 3 Lesson 11.3 Quiz: Core Qualities of a Great Build Tool](ND024_Part3_Lesson11_03.md)
@@ -461,13 +461,13 @@
 - [Part 3 Lesson 11.12 Using Gulp](ND024_Part3_Lesson11_12.md)
 - [Part 3 Lesson 11.13 Quiz: Watching SCSS Files for Change](ND024_Part3_Lesson11_13.md)
 - [Part 3 Lesson 11.14 Lesson Outro](ND024_Part3_Lesson11_14.md)
-##### Lesson 12: Expressive Live Editing
+##### Part 3 Lesson 12: Expressive Live Editing
 - [Part 3 Lesson 12.1 Lesson Intro](ND024_Part3_Lesson12_01.md)
 - [Part 3 Lesson 12.2 Quiz: Advantages of Live Editing](ND024_Part3_Lesson12_02.md)
 - [Part 3 Lesson 12.3 Different Approaches for Live Editing](ND024_Part3_Lesson12_03.md)
 - [Part 3 Lesson 12.4 Using Browser-Sync](ND024_Part3_Lesson12_04.md)
 - [Part 3 Lesson 12.5 Lesson Outro](ND024_Part3_Lesson12_05.md)
-##### Lesson 13: How to Prevent Disasters
+##### Part 3 Lesson 13: How to Prevent Disasters
 - [Part 3 Lesson 13.1 Lesson Intro](ND024_Part3_Lesson13_01.md)
 - [Part 3 Lesson 13.2 Why Rely on Tools to Prevent Bad Things](ND024_Part3_Lesson13_02.md)
 - [Part 3 Lesson 13.3 Linting](ND024_Part3_Lesson13_03.md)
@@ -479,7 +479,7 @@
 - [Part 3 Lesson 13.9 What's Next?](ND024_Part3_Lesson13_09.md)
 - [Part 3 Lesson 13.10 Continuous Integration](ND024_Part3_Lesson13_10.md)
 - [Part 3 Lesson 13.11 Lesson Outro](ND024_Part3_Lesson13_11.md)
-##### Lesson 14: Awesome Optimizations
+##### Part 3 Lesson 14: Awesome Optimizations
 - [Part 3 Lesson 14.1 Lesson Intro](ND024_Part3_Lesson14_01.md)
 - [Part 3 Lesson 14.2 Development and Production Modes](ND024_Part3_Lesson14_02.md)
 - [Part 3 Lesson 14.3 Development and Production Modes Part 2](ND024_Part3_Lesson14_03.md)
@@ -497,17 +497,17 @@
 - [Part 3 Lesson 14.15 Image Compression](ND024_Part3_Lesson14_15.md)
 - [Part 3 Lesson 14.16 Quiz: How Should We Compress This Image](ND024_Part3_Lesson14_16.md)
 - [Part 3 Lesson 14.17 Lesson Outro](ND024_Part3_Lesson14_17.md)
-##### Lesson 15: Web Tooling and Automation Conclusion
+##### Part 3 Lesson 15: Web Tooling and Automation Conclusion
 - [Part 3 Lesson 15.1 Lesson Intro](ND024_Part3_Lesson15_01.md)
 - [Part 3 Lesson 15.2 Scaffolding](ND024_Part3_Lesson15_02.md)
 - [Part 3 Lesson 15.3 Lesson Outro](ND024_Part3_Lesson15_03.md)
-##### Lesson Project: Restaurant Reviews App - Stage 2
+##### Part 3 Lesson Project: Restaurant Reviews App - Stage 2
 - [Part 3 Lesson Project.1 Project Overview](ND024_Part3_LessonProject_01.md)
 - [Part 3 Lesson Project.2 Project Instructions & Rubric](ND024_Part3_LessonProject_02.md)
 - [Part 3 Lesson Project.3 Project: Restaurant Reviews App—Stage2](ND024_Part3_LessonProject_03.md)
 - - -
 #### Part 4: Performant Web Apps
-##### Lesson 1: HTTP's Request/Response Cycle
+##### Part 4 Lesson 1: HTTP's Request/Response Cycle
 - [Part 4 Lesson 1.1 Intro](ND024_Part4_Lesson01_01.md)
 - [Part 4 Lesson 1.2 HTTP Requests](ND024_Part4_Lesson01_02.md)
 - [Part 4 Lesson 1.3 HTTP Requests 2](ND024_Part4_Lesson01_03.md)
@@ -520,7 +520,7 @@
 - [Part 4 Lesson 1.10 From XHR to Fetch](ND024_Part4_Lesson01_10.md)
 - [Part 4 Lesson 1.11 Quiz: Fetch Quiz](ND024_Part4_Lesson01_11.md)
 - [Part 4 Lesson 1.12 Outro](ND024_Part4_Lesson01_12.md)
-##### Lesson 2: HTTP/1
+##### Part 4 Lesson 2: HTTP/1
 - [Part 4 Lesson 2.1 HTTP Intro](ND024_Part4_Lesson02_01.md)
 - [Part 4 Lesson 2.2 The Netcat Command](ND024_Part4_Lesson02_02.md)
 - [Part 4 Lesson 2.3 HTTP Verbs](ND024_Part4_Lesson02_03.md)
@@ -534,7 +534,7 @@
 - [Part 4 Lesson 2.11 Performance Details](ND024_Part4_Lesson02_11.md)
 - [Part 4 Lesson 2.12 Performance Details 2](ND024_Part4_Lesson02_12.md)
 - [Part 4 Lesson 2.13 Outro](ND024_Part4_Lesson02_13.md)
-##### Lesson 3: HTTPS
+##### Part 4 Lesson 3: HTTPS
 - [Part 4 Lesson 3.1 HTTPS Intro](ND024_Part4_Lesson03_01.md)
 - [Part 4 Lesson 3.2 Securing HTTP](ND024_Part4_Lesson03_02.md)
 - [Part 4 Lesson 3.3 Quiz: MITM Quiz 1](ND024_Part4_Lesson03_03.md)
@@ -549,7 +549,7 @@
 - [Part 4 Lesson 3.12 Mixed Content](ND024_Part4_Lesson03_12.md)
 - [Part 4 Lesson 3.13 Quiz: Mixed Content Quiz](ND024_Part4_Lesson03_13.md)
 - [Part 4 Lesson 3.14 Outro](ND024_Part4_Lesson03_14.md)
-##### Lesson 4: HTTP/2
+##### Part 4 Lesson 4: HTTP/2
 - [Part 4 Lesson 4.1 HTTP/2 Intro](ND024_Part4_Lesson04_01.md)
 - [Part 4 Lesson 4.2 HTTP/1 Problem: Head of Line Blocking](ND024_Part4_Lesson04_02.md)
 - [Part 4 Lesson 4.3 HTTP/1 Problem: Uncompressed Headers](ND024_Part4_Lesson04_03.md)
@@ -559,7 +559,7 @@
 - [Part 4 Lesson 4.7 Working with HTTP/2](ND024_Part4_Lesson04_07.md)
 - [Part 4 Lesson 4.8 Quiz: Development Techniques for HTTP/2 Quiz](ND024_Part4_Lesson04_08.md)
 - [Part 4 Lesson 4.9 Outro](ND024_Part4_Lesson04_09.md)
-##### Lesson 5: Security
+##### Part 4 Lesson 5: Security
 - [Part 4 Lesson 5.1 Security Intro](ND024_Part4_Lesson05_01.md)
 - [Part 4 Lesson 5.2 Origins](ND024_Part4_Lesson05_02.md)
 - [Part 4 Lesson 5.3 Origins 2](ND024_Part4_Lesson05_03.md)
@@ -574,7 +574,7 @@
 - [Part 4 Lesson 5.12 Quiz: XSS Quiz](ND024_Part4_Lesson05_12.md)
 - [Part 4 Lesson 5.13 Security Outro](ND024_Part4_Lesson05_13.md)
 - [Part 4 Lesson 5.14 Course Outro](ND024_Part4_Lesson05_14.md)
-##### Lesson 6: Requests & Responses
+##### Part 4 Lesson 6: Requests & Responses
 - [Part 4 Lesson 6.1 Introduction](ND024_Part4_Lesson06_01.md)
 - [Part 4 Lesson 6.2 Your first web server](ND024_Part4_Lesson06_02.md)
 - [Part 4 Lesson 6.3 Parts of a URI](ND024_Part4_Lesson06_03.md)
@@ -582,7 +582,7 @@
 - [Part 4 Lesson 6.5 HTTP GET requests](ND024_Part4_Lesson06_05.md)
 - [Part 4 Lesson 6.6 HTTP responses](ND024_Part4_Lesson06_06.md)
 - [Part 4 Lesson 6.7 Congratulations!](ND024_Part4_Lesson06_07.md)
-##### Lesson 7: The Web from Python
+##### Part 4 Lesson 7: The Web from Python
 - [Part 4 Lesson 7.1 Python's `http.server`](ND024_Part4_Lesson07_01.md)
 - [Part 4 Lesson 7.2 What about `.encode()`?](ND024_Part4_Lesson07_02.md)
 - [Part 4 Lesson 7.3 The echo server](ND024_Part4_Lesson07_03.md)
@@ -595,7 +595,7 @@
 - [Part 4 Lesson 7.10 Using a JSON API](ND024_Part4_Lesson07_10.md)
 - [Part 4 Lesson 7.11 The bookmark server](ND024_Part4_Lesson07_11.md)
 - [Part 4 Lesson 7.12 You did it!](ND024_Part4_Lesson07_12.md)
-##### Lesson 8: HTTP in the Real World
+##### Part 4 Lesson 8: HTTP in the Real World
 - [Part 4 Lesson 8.1 Deploying to a hosting service](ND024_Part4_Lesson08_01.md)
 - [Part 4 Lesson 8.2 Handling more requests](ND024_Part4_Lesson08_02.md)
 - [Part 4 Lesson 8.3 What's an Apache or Nginx?](ND024_Part4_Lesson08_03.md)
@@ -604,7 +604,7 @@
 - [Part 4 Lesson 8.6 Beyond GET and POST](ND024_Part4_Lesson08_06.md)
 - [Part 4 Lesson 8.7 New developments in HTTP](ND024_Part4_Lesson08_07.md)
 - [Part 4 Lesson 8.8 Keep learning!](ND024_Part4_Lesson08_08.md)
-##### Lesson 9: The Critical Rendering Path
+##### Part 4 Lesson 9: The Critical Rendering Path
 - [Part 4 Lesson 9.1 Course Introduction](ND024_Part4_Lesson09_01.md)
 - [Part 4 Lesson 9.2 Jank Invaders!](ND024_Part4_Lesson09_02.md)
 - [Part 4 Lesson 9.3 Lesson Introduction](ND024_Part4_Lesson09_03.md)
@@ -621,7 +621,7 @@
 - [Part 4 Lesson 9.14 Final Project](ND024_Part4_Lesson09_14.md)
 - [Part 4 Lesson 9.15 Lesson Outro](ND024_Part4_Lesson09_15.md)
 - [Part 4 Lesson 9.16 Jank Invaders Leaderboard](ND024_Part4_Lesson09_16.md)
-##### Lesson 10: App Lifecycles
+##### Part 4 Lesson 10: App Lifecycles
 - [Part 4 Lesson 10.1 Lesson 2 Introduction](ND024_Part4_Lesson10_01.md)
 - [Part 4 Lesson 10.2 RAIL](ND024_Part4_Lesson10_02.md)
 - [Part 4 Lesson 10.3 Load and Idle](ND024_Part4_Lesson10_03.md)
@@ -635,7 +635,7 @@
 - [Part 4 Lesson 10.11 Quiz: RAIL Scenario 1](ND024_Part4_Lesson10_11.md)
 - [Part 4 Lesson 10.12 Quiz: RAIL Scenario 2](ND024_Part4_Lesson10_12.md)
 - [Part 4 Lesson 10.13 Lesson 2 Outro](ND024_Part4_Lesson10_13.md)
-##### Lesson 11: Weapons of Jank Destruction
+##### Part 4 Lesson 11: Weapons of Jank Destruction
 - [Part 4 Lesson 11.1 Lesson 3 Introduction](ND024_Part4_Lesson11_01.md)
 - [Part 4 Lesson 11.2 DevTools](ND024_Part4_Lesson11_02.md)
 - [Part 4 Lesson 11.3 The Timeline in Depth](ND024_Part4_Lesson11_03.md)
@@ -649,7 +649,7 @@
 - [Part 4 Lesson 11.11 Quiz: Finding Janky Functions](ND024_Part4_Lesson11_11.md)
 - [Part 4 Lesson 11.12 Quiz: Finding More Jank](ND024_Part4_Lesson11_12.md)
 - [Part 4 Lesson 11.13 Lesson 3 Outro](ND024_Part4_Lesson11_13.md)
-##### Lesson 12: JavaScript
+##### Part 4 Lesson 12: JavaScript
 - [Part 4 Lesson 12.1 Lesson 4 Introduction](ND024_Part4_Lesson12_01.md)
 - [Part 4 Lesson 12.2 Just in Time](ND024_Part4_Lesson12_02.md)
 - [Part 4 Lesson 12.3 Quiz: Optimizing JS for Animations](ND024_Part4_Lesson12_03.md)
@@ -661,7 +661,7 @@
 - [Part 4 Lesson 12.9 Quiz: A Snappier QR Code App Pt.1](ND024_Part4_Lesson12_09.md)
 - [Part 4 Lesson 12.10 Quiz: A Snappier QR Code App Pt.2](ND024_Part4_Lesson12_10.md)
 - [Part 4 Lesson 12.11 Lesson 4 Outro](ND024_Part4_Lesson12_11.md)
-##### Lesson 13: Styles and Layout
+##### Part 4 Lesson 13: Styles and Layout
 - [Part 4 Lesson 13.1 Lesson 5 Introduction](ND024_Part4_Lesson13_01.md)
 - [Part 4 Lesson 13.2 Quiz: The Cost of Style Changes](ND024_Part4_Lesson13_02.md)
 - [Part 4 Lesson 13.3 Selector Matching](ND024_Part4_Lesson13_03.md)
@@ -673,7 +673,7 @@
 - [Part 4 Lesson 13.9 Causes of Forced Synchronous Layout](ND024_Part4_Lesson13_09.md)
 - [Part 4 Lesson 13.10 Quiz: Stop FSL](ND024_Part4_Lesson13_10.md)
 - [Part 4 Lesson 13.11 Lesson 5 Outro](ND024_Part4_Lesson13_11.md)
-##### Lesson 14: Compositing and Painting
+##### Part 4 Lesson 14: Compositing and Painting
 - [Part 4 Lesson 14.1 Lesson 6 Introduction](ND024_Part4_Lesson14_01.md)
 - [Part 4 Lesson 14.2 Quiz: Paint Rectangles](ND024_Part4_Lesson14_02.md)
 - [Part 4 Lesson 14.3 Quiz: Paint Profiler](ND024_Part4_Lesson14_03.md)
@@ -689,7 +689,7 @@
 - [Part 4 Lesson 14.13 Make Some Quizzes](ND024_Part4_Lesson14_13.md)
 - [Part 4 Lesson 14.14 Quiz: The Final Project](ND024_Part4_Lesson14_14.md)
 - [Part 4 Lesson 14.15 Course Outro](ND024_Part4_Lesson14_15.md)
-##### Lesson Project: Restaurant Reviews App - Stage 3
+##### Part 4 Lesson Project: Restaurant Reviews App - Stage 3
 - [Part 4 Lesson Project.1 Project Overview](ND024_Part4_LessonProject_01.md)
 - [Part 4 Lesson Project.2 Project Instructions & Rubric](ND024_Part4_LessonProject_02.md)
 - [Part 4 Lesson Project.3 Project: Restaurant Reviews App—Stage 3](ND024_Part4_LessonProject_03.md)
