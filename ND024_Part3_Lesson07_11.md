@@ -25,7 +25,7 @@ const james = new Student('James', 'Electrical Engineering');
 ES6 code on the left that's being transpiled to ES5 code on the right.
 
 ### Transpiling project in repo
-If you check in the repo for this project, inside the Lesson 4 directory is a little project that's all set up for transpiling ES6 code to ES5 code. There's an "ES6" directory that contains the ES6 code we'll be transpiling (using Babel) to ES5 code that will be able to run in every browser.
+If you check in the [repo for this project](https://github.com/udacity/course-es6/tree/master/lesson-4/walk-through-transpiling), inside the Lesson 4 directory is a little project that's all set up for transpiling ES6 code to ES5 code. There's an "ES6" directory that contains the ES6 code we'll be transpiling (using Babel) to ES5 code that will be able to run in every browser.
 
 <img src="https://d17h27t6h515a5.cloudfront.net/topher/2017/January/5888fd20_es6-code-in-project/es6-code-in-project.png">
 Code editor with ES6 code that will be transpiled.
