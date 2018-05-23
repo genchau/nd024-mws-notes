@@ -63,7 +63,7 @@ Now pausing is all well and good, but what if we could send data from the genera
 
 ### Yielding Data to the "Outside" World
 Instead of logging the names to the console and then pausing, let's have the code "return" the name and then pause.
-````
+```
 function* getEmployee() {
     console.log('the function has started');
 
