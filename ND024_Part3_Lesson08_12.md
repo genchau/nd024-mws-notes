@@ -13,7 +13,6 @@ Implement cleanImageCache, which brings together indexedDB and the cache API.
 - Get all the messages from the database,
 - Look at what photos they need,
 - get rid of photos we don't need in images cache
-- 
 - Use test ID: `cache-clean`
 
 #### Solution:
