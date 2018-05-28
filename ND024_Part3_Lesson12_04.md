@@ -13,6 +13,8 @@ var browserSync = require('browser-sync').create();
  browserSync.stream();
 ```
 3. Run gulp in Terminal, see how browser opens with the page open.
+- - -
+Troubleshooting. I had problem with this section. The fix was to downgrade gulp from version 4.0 to version 3.9.
 
 - - -
 Next up: [Lesson Outro](ND024_Part3_Lesson12_05.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
