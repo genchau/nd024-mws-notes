@@ -44,10 +44,12 @@ module.exports = {
             "error",
             "tab"
         ],
-        "linebreak-style": [
-            "error",
-            "unix"
-        ],
+        // there's a bug with linebreak when used in sublime. It works fine in gulp but not sublime
+        // reference https://github.com/SublimeLinter/SublimeLinter/pull/468
+        // "linebreak-style": [
+        //     "error",
+        //     "unix"
+        // ],
         "quotes": [
             "error",
             "single"
