@@ -1,0 +1,6 @@
+# Lesson 14.2 Development and Production Modes
+
+Before we go and optimize it's important to understand that these optimizations are only meant for production. Sure you could execute them all the time, but it would dramatically slow down our iterative build time, and thus make live editing a lot less powerful. Instead I recommend to split our tasks into development and production. Development taks contain things we really need no matter what Sass processing, for example, and tasks that only make sense through encoding, for instance, live editing. However, keep in mind that while developing, this means we'll be using a different version of our app that our users. It's going to look and feel mostly the same, but sometimes performance issues or bugs only manifest with a specific optimization technique. So make sure to always test the production version from time to time. In our next couple of instructions, we'll be creating more generated assets. Previously, the only generated files we were producing were the CSS files. But now we need to create a structure to hold production and development files separately.
+
+- - -
+Next up: [Development and Production Modes Part 2](ND024_Part3_Lesson14_03.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
