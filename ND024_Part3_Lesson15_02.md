@@ -1,0 +1,12 @@
+# Lesson 15.2 Scaffolding
+
+Scaffolding is a way of creating a starting point structure for our project based on a couple of assumptions that we control. If say, all we do is create single page movie promotions during our work hours, our gulp file might look very similar every time. In that case, writing it from scratch over and over is inefficient. And it's very likely that we've already done the most basic form of scaffolding plenty of time, copy and paste. To be fair, that's a perfectly valid way of doing things. But it's not the most elegant in the world of web development. Let's take a look at some premade scaffolding tools. We'll find links to all 3 in the instructor notes. If we're just starting out, the HTML5 Boilerplate is a nice scaffolding starting point. All it does is give us a decent basis for our CSS, HTML, and JavaScript. It makes sure our HTML is well formed, that fall backs are provided and that our CSS is normalized. On top, it ships convenient stuff like jQuery. It has a simple build script to combine and minify files, but doesn't come with Gulp or any other advanced build tool. We already passed that stage. For an intermediate solution, check out the web starter kit. It's an opinionated starting point that we've built at Google that already includes a built configuration with live editing and so on, but it won't fit every project out there. And finally, Yeoman for the advanced users, to which I'm counting you now that we've reached almost the end of the course. Yeoman is the most flexible solution of the bunch. Use it together with so called generators that fit the job. After calling Yeoman with the generator, in this case the web app one, Yeoman asks us a ew questions about what we need, then creates an empty project template based on our preferences. It's basically a much fancier version of copy and paste. Okay, why talk about this now, at the end of the course? There's no point in letting a scaffolding tool generate a project and build template that we have no idea how to use and modify. Nnow that we know all the basics, we'll be much more confident trying out various Yeoman tasks.
+
+[HTML5 Boilerplate: The web’s most popular front-end template](https://html5boilerplate.com/)
+
+[Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
+
+[Yeoman](http://yeoman.io/)
+
+- - -
+Next up: [Lesson Outro](ND024_Part3_Lesson15_03.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
