@@ -1,0 +1,6 @@
+# Lesson 3.1 HTTPS Intro
+
+Have you ever thought about how naive it is to just use the free Wi-Fi at cafes and similar public places? We are trusting the store owner to not do anything dodgy and we're trusting that every other person currently using the Wi-Fi hotspot is a good person. Not only can they listen to our traffic, we are broadcasting over radio waves after  all, but they could also tamper with the data we receive. This is a harmless change. But what if we wanted to check our bank account on a public Wi-Fi? Think about every other person being able to read or change  our data. We definitely don't want that. HTTPS is a way to protect me and my users from malicious cafe owners and visitors. As a web developer, HTTPS is even more important since all modern browser's APIs are only available if our website is secured with HTTPS. To exploit the full potential of the web, we need to start using HTTPS, and not just for the log-in page, but every single page. Knowing a web page is using HTTPS, will give our users peace of mind in these kind of public places. How can we tell if a website is using HTTPS and how can we tell if a website is using HTTPS correctly, and how can we use HTTPS on our own website? That's what this lesson is about.
+
+- - -
+Next up: [Securing HTTP](ND024_Part4_Lesson03_02.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
