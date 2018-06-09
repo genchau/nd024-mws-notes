@@ -10,5 +10,7 @@ We just saw how to fetch a single document using an HTTP request. These document
 6. It can be images
 7. It can be videos
 
+[Converting HTML to the DOM](https://classroom.udacity.com/courses/ud884/lessons/1464158642/concepts/15290985490923)
+
 - - -
 Next up: [Exercise Setup](ND024_Part4_Lesson01_07.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
