@@ -1,5 +1,7 @@
 # Lesson 3.3 Quiz: MITM Quiz 1
 
+SKIPPING. This didn't work for me. The .zip file is corrupted.
+
 ### Instructor Notes
 Go to the settings in Chrome, search for Proxy and click the Proxy Settings button and set your HTTP and HTTPS Proxy settings to localhost Port 13370.
 
