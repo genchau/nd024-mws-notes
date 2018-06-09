@@ -5,7 +5,7 @@ To get a feel for the way a client and server communicate, we've created a bunch
 
 ### Launching the Server
 1. on the quiz page, download the exercise binary located at the bottom of the page, under the Supporting Materials section image
-<img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/June/57608a7a_supportingmaterial/supportingmaterial.png">
+    <img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/June/57608a7a_supportingmaterial/supportingmaterial.png">
 2. unzip the file
 3. locate the binary for your platform
 4. launch the binary by double-clicking on it
