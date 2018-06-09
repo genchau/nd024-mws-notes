@@ -1,0 +1,6 @@
+# Lesson 1.2 HTTP Requests
+
+The internet has been around longer than the web. While computers already had something to communicate with over the internet like e-mail or FTP, there was no common and publicly available way to publish and access documents. This is where Tim Berners-Lee comes in. He wanted an open mechanism for researchers to publish, read, and comment on papers through the internet. He wanted to mesh off-link documents that were called hypertext documents. Berners-Lee shows a subset of SJML and called it HTML, the hypertext markup language. Then he designed HTTP the hypertext transfer protocol to transfer these HTML documents. Hypertext sounds all futuristic and complicated but simply means that the text in the document can have references to other documents. These references are called links. By getting a document, the user can not only read the documents but they can navigate to related documents through these links. Especially in a scientific context for which Berners-Lee designed it, this feature turned out to be incredibly useful. Hypertext can refer to more than text, though. Files can link to images, code, styles, or anything else.
+
+- - -
+Next up: [HTTP Requests 2](ND024_Part4_Lesson01_03.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
