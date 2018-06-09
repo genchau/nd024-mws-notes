@@ -2,6 +2,7 @@
 
 Send an HTTP Request
 
+- Download [this](http://video.udacity-data.com.s3.amazonaws.com/topher/2016/June/575716a0_ud897-l2-request-headers-binary/ud897-l2-request-headers-binary.zip)
 - launch the provided server
 - send a request
     - use UDACITY method
