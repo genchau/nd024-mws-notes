@@ -1,0 +1,6 @@
+# Lesson 1.10 From XHR to Fetch
+
+The browser does a lot of heavy lifting for us. But as so often in life, we don't always know what we want right from the start. Imagine a website that wants to show an image of the current weather. We don't know what weather is going to be when the user visits the website in the future. Of course, we could have loaded all the images we might possibly need from the very start, but that becomes impractical really quickly. So let's talk about Ajax. Ajax is a group of web technologies that let us make a request programmatically with JavaScript instead of navigating and effectively reloading the entire website. XHR is the most common way of doing it right now. The API of XHR's arguably confusing and outdated compared to what JavaScript offers nowadays. That is why we are going to skip talking about XHR and use its successor instead, Fetch. Fetch does the exact same thing but with a cleaner API utilizing promises and therefore integrates much better with the rest of the modern JavaScript APIs. With fetch we can utilize all the HTTP methods the protocol specifies and have full control of which headers are being sent, well, almost all the headers.
+
+- - -
+Next up: [Quiz: Fetch Quiz](ND024_Part4_Lesson01_11.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
