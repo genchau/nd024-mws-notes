@@ -1,0 +1,6 @@
+# Lesson 3.6 TLS: Cryptography Primer
+
+TLS has two important cryptographic building blocks, encryption and hashing. When people think about encryption, they probably think about symmetric encryption. You encrypt some data and give the encrypted data to someone else. The recipient needs the same key to decrypt the data he got or otherwise it will be inaccessible to him. With a few mathematical tricks, the browser can utilize encryption algorithms that use one key for encryption and another one for decryption. Mostly the keys are encrypting messages is made public so that anyone that wants to send a message can just go ahead and encrypt with that key. They or anybody else won't be able to decrypt the message with the same key. Only us, who has the decryption key will be able to decrypt it. Due to the math that is going on under the hood. Both keys can actually be used for encryption and decryption. What one key encrypts can only be decrypted by the other. That's why it makes more sense to talk about a public key that is available to anyone and a private key that is only available to the owner and should be stored securely. That's why asymmetric encryption is also called public key encryption.
+
+- - -
+Next up: [TLS: Hashing](ND024_Part4_Lesson03_07.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
