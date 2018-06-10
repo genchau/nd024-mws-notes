@@ -1,0 +1,6 @@
+# Lesson 3.12 Mixed Content
+
+If our index document is served over HTTPS, great. But what about the site's assets, are they served over HTTPS as well? A fast way to break that beautiful green lock is having your assets served over a regular HTTP. When this happens, the site ends up in a state called Mixed Content. Mixed content occurs when we open a website that is supposed to be delivered over HTTPS but includes resources like images, iframes, stylesheets or scripts from non TLS secured origins. A popular mistake is pulling in jQuery from a non TLS enabled CDN. Depending on the type of resources that is being included over a nonsecure channel, the consequences might differ. It might cost us a green padlock but still remain functional. The resource might get block or break our page or it might even get the horrible red padlock of shame. The behavior differs across different browsers so it should definitely avoid and check a website for mixed content. In fact, Google recommends that you'd serve all your assets over HTTPS. This way, we'll avoid mixed content mornings and our site and its assets will be transferred securely.
+
+- - -
+Next up: [Quiz: Mixed Content Quiz](ND024_Part4_Lesson03_13.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
