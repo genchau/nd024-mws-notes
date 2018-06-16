@@ -1,0 +1,13 @@
+# Lesson 5.4 Overriding Same Origin Policy
+
+Sometimes, you want to allow other people to access your resources even if they are from another origin. This is mostly relevant for API providers who want other sites to be able to use the service but the same origin policy prevents this. Nowadys, you can easily achieve the sharing of resources with a set of AGP address called Cross Origin Resource Sharing or CORS for short. This is the most powerful engineering solution to the single origin problem. But up until a few years ago, the browser support for CORS was rather lacking and people had to come up with their own technique to work around the single origin policy in the meantime. One of the oldest techniques is called JSONP, JSON with padding. Instead of simply returning data, JSONP returns a script containing the data. This exploits the fact that the scripts from other origins will execute and share the execution environment with your own scripts. JSONP-based APIs expect to include the function name as a query parameter. The server will return a new script calling the function that you named. Let's look at a fictional example. Let's say we are building an app at yourcourselist.com that wants to list all the Udacity courses the user is enrolled in. The naive approach would be to make a fetch request to API udacity.com and use the return data to generate a list for the user. However, this will fail with the security exception as your host differs from Udacity's host. How would this API look if it supports JSONP? Add a function name to the URL and include it with a script tag. The server will wrap all the data means to return in a function call with the same name as given via the query parameter. You need to define this function because when the responses return, the function call is executed and you now have access to the data to the parameter of that function.
+
+[JS Bin - Collaborative JavaScript Debugging](https://jsbin.com/roxapu/3/edit?html,js,console)
+
+### Message passing
+Another technique that was explicitly designed to allow cross-origin communication is called message passing. postMessage() is a function that can be called to pass a message to other windows and iframes, even if they come from a different origin. This creates a message event you subscribe to like any other event. For security, the receiver can inspect the message’s origin and content.
+
+While postMessage is much cleaner and allows more granular control than the other cross-origin options, it sadly hasn’t been as widely adopted by API providers.
+
+- - -
+Next up: [CORS](ND024_Part4_Lesson05_05.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
