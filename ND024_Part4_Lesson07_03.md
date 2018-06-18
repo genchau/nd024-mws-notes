@@ -23,6 +23,48 @@ Once you have EchoServer.py running on your machine, try these three test URIs:
 
 The word stardust only shows up in a URI fragment above — it appears after the # sign in the second URI. Fragments aren't sent to the server as part of an HTTP GET request; they only affect the browser. So this is the correct answer.
 
+EchoServer.py:
+```
+#!/usr/bin/env python3
+#
+# The *echo server* is an HTTP server that responds to a GET request by
+# sending the query path back to the client.  For instance, if you go to
+# the URI "http://localhost:8000/Balloon", the echo server will respond
+# with the text "Balloon" in the HTTP response body.
+#
+# Instructions:
+#
+# The starter code for this exercise is the code from the hello server.
+# Your assignment is to change this code into the echo server:
+#
+#   1. Change the name of the handler from HelloHandler to EchoHandler.
+#   2. Change the response body from "Hello, HTTP!" to the query path.
+#
+# When you're done, run it in your terminal.  Try it out from your browser,
+# then run the "test.py" script to check your work.
+
+from http.server import HTTPServer, BaseHTTPRequestHandler
+
+
+class EchoHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        # First, send a 200 OK response.
+        self.send_response(200)
+
+        # Then send headers.
+        self.send_header('Content-type', 'text/plain; charset=utf-8')
+        self.end_headers()
+
+        # Now, write the response body.
+        self.wfile.write(self.path[1:].encode() + " are very interesting!\n".encode())
+
+if __name__ == '__main__':
+    server_address = ('', 8000)  # Serve on all addresses, port 8000.
+    httpd = HTTPServer(server_address, EchoHandler)
+    httpd.serve_forever()
+
+```
+
 ### How did you build the echo server?
 The only difference in the code between EchoHandler and HelloHandler is what they write in the response body. The hello server always writes the same message, while the echo server takes its message from the request path. Here's how I did it — a one-line change at the end of do_GET:
 ```
