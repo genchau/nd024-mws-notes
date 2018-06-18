@@ -32,6 +32,7 @@ http://uinames.com/api?ext&region=Italy
 ### Exercise: Use JSON with UINames.com
 The starter code for this exercise is in the Lesson-2/6_UsingJSON directory, with the filename UINames.py. In this exercise, use the JSON methods described above to decode the response from the uinames.com site.
 
+UINames.py:
 ```
 #!/usr/bin/env python3
 #
