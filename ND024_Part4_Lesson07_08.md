@@ -24,5 +24,81 @@ When you're done, test it in your browser and with the test.py script, as before
 ### Solution, part three
 You can see my version of the solution to the Messageboard Part Three exercise in the 5_MessageboardPartThree/solution subdirectory. Your code might not look the same as mine; stylistic variations are normal! But if the tests in test.py pass, you've got a good server.
 
+MessageboardPartThree.py:
+```
+#!/usr/bin/env python3
+#
+# Step two in building the messageboard server.
+#
+# Instructions:
+#   1. In the do_POST method, send a 303 redirect back to the / page.
+#   2. In the do_GET method, put the response together and send it.
+
+from http.server import HTTPServer, BaseHTTPRequestHandler
+from urllib.parse import parse_qs
+
+memory = []
+
+formStart = '''<!DOCTYPE html>
+  <title>Message Board</title>
+  <form method="POST">
+    <textarea name="message"></textarea>
+    <br>
+    <button type="submit">Post it!</button>
+  </form>
+  <pre>
+'''
+formEnd = '''
+  </pre>
+'''
+
+
+class MessageHandler(BaseHTTPRequestHandler):
+    def do_POST(self):
+        # How long was the message?
+        length = int(self.headers.get('Content-length', 0))
+
+        # Read the correct amount of data from the request.
+        data = self.rfile.read(length).decode()
+        # Extract the "message" field from the request data.
+        message = parse_qs(data)["message"][0]
+
+        # Escape HTML tags in the message so users can't break world+dog.
+        message = message.replace("<", "&lt;")
+
+        # Store it in memory.
+        memory.append(message)
+
+        # 1. Send a 303 redirect back to the root page.
+        self.send_response(303)
+        self.send_header("Location", "/")
+        self.end_headers()
+
+
+    def do_GET(self):
+        # First, send a 200 OK response.
+        self.send_response(200)
+
+        # Then send headers.
+        self.send_header('Content-type', 'text/html; charset=utf-8')
+        self.end_headers()
+
+        # 2. Put the response together out of the form and the stored messages.
+        returnedMessageBoard = formStart
+        for message in memory:
+            returnedMessageBoard += message + '\n'
+        returnedMessageBoard += formEnd
+        print(returnedMessageBoard)
+
+        # 3. Send the response.
+        self.wfile.write(returnedMessageBoard.encode())
+
+if __name__ == '__main__':
+    server_address = ('', 8000)
+    httpd = HTTPServer(server_address, MessageHandler)
+    httpd.serve_forever()
+
+```
+
 - - -
 Next up: [Making requests](ND024_Part4_Lesson07_09.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
