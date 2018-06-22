@@ -1,0 +1,6 @@
+# Lesson 11.8 Using dev tools on mobile
+
+Now that we have everything set up the way we need, open Chrome on your development machine and go to Chrome inspect. Make sure the site you want to debug is open on your mobile device and then connect your laptop to your mobile device via USB. Then confirm that you want to allow USB debugging. Back in our development machine, we can see a list of the attached devices and the Chrome tabs that are open on the devices. You can even open other tabs. We can also focus on specific tabs, you can reload them And you can even close a tab. The best part of course is that you can inspect the pages that are running on your mobile device, from your development machine let's take a look. One of my favorite new features is the new screen cast mode. This allows you to drive the experience on your mobile device from your development machine. You can click on links, and see them update simultaneously on the device. As well as on your desktop. As you can see, you have all the familiar features from the development tools available for mobile now.
+
+- - -
+Next up: [Mobile tools for iOS](ND024_Part4_Lesson11_09.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
