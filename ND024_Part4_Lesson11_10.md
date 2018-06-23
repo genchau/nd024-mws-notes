@@ -1,5 +1,7 @@
 # Lesson 11.10 Quiz: More Timeline Practice
 
+[Here's the test site to analyze](http://jsbin.com/saxalu/2/quiet)
+
 Before this quiz starts, I want to talk **testing strategy**. First off, you want to make sure that you're collecting clean data. So, you should first quit any other apps that you have running besides the browser. Along the same lines, extensions can skew your results. So, make sure you're running your tests in an incognito window. You should also recognize that sometimes you may have several bottlenecks in your code, and they may be triggered in different ways from different parts of the pipeline. So, it's important that you focus on the causes of bottlenecks more than you focus on their symptoms. And lastly, with any performance issue, make sure you always measure first, before you start to apply fixes. There's no point in fixing an issue you don't actually have. And you won't be able to know how well your fixes actually work unless you've measured first, so that you can compare the difference. 
 
 <img src="images/ND024_Part4_Lesson11_10a.JPG">
